@@ -1,4 +1,4 @@
-![Header](https://wallpaperaccess.com/full/8901670.png)
+![Header](https://github.com/mhd-zam/mhd-zam/blob/main/github-header-image%20(1).png?raw=true)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=35&pause=1000&color=F7F67E&width=1000&lines=Hi+%F0%9F%91%8B!+My+name+is+Mohammed+Zamil" alt="Typing SVG" /></a>
 

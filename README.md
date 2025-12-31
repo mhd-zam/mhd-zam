@@ -68,8 +68,8 @@ I specialize in crafting **clean UI**, **high-performance frontend**, and **reli
 
 ## 📫 Let’s Connect
 
-- 💼 LinkedIn: _[add your LinkedIn link]_  
-- 📧 Email: _[add your email]_  
+- 💼 LinkedIn: www.linkedin.com/in/mohammed-zamil
+- 📧 Email: mohammedzamil49@gmail.com
 - 🌍 Portfolio: _[optional portfolio link]_
 
 ---

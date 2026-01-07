@@ -70,7 +70,7 @@ I specialize in crafting **clean UI**, **high-performance frontend**, and **reli
 
 - 💼 LinkedIn: www.linkedin.com/in/mohammed-zamil
 - 📧 Email: mohammedzamil49@gmail.com
-- 🌍 Portfolio: _[optional portfolio link]_
+- 🌍 Portfolio: https://mohammedzamil.vercel.app/
 
 ---
 
